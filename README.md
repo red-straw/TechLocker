@@ -46,3 +46,7 @@
 ## 기술 스택
 
 Arduino (C++) · MIT App Inventor · Bluetooth Serial · Fritzing
+
+## 라이선스
+
+[MIT](LICENSE)
